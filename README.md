@@ -1,10 +1,10 @@
-# 🍽️ RangoApp — Gerador de Receitas com IA
+#  RangoApp — Gerador de Receitas com IA
 
 Aplicativo mobile desenvolvido em **React Native (Expo)** que gera receitas personalizadas com Inteligência Artificial a partir dos ingredientes selecionados pelo usuário.
 
 ---
 
-## 📱 Funcionalidades
+##  Funcionalidades
 
 - ✅ **Autenticação** com Firebase (Login / Cadastro / Logout);
 - ✅ **Geração de receitas com IA** (Google Gemini) a partir de ingredientes selecionados;
@@ -16,7 +16,7 @@ Aplicativo mobile desenvolvido em **React Native (Expo)** que gera receitas pers
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 | Camada | Tecnologia |
 |---|---|
@@ -29,7 +29,7 @@ Aplicativo mobile desenvolvido em **React Native (Expo)** que gera receitas pers
 
 ---
 
-## 🚀 Como Rodar Localmente
+##  Como Rodar Localmente
 
 ### Pré-requisitos
 
@@ -96,7 +96,7 @@ Escaneie o QR Code com o **Expo Go** no celular.
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 rangoapp/
@@ -122,6 +122,6 @@ rangoapp/
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por Gabriel de Araújo Bernardes e Washington Assis Freitas - 2026
