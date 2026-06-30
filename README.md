@@ -124,5 +124,4 @@ rangoapp/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Gabriel de Araújo Bernardes
-                 Washington Assis Freitas
+Desenvolvido por Gabriel de Araújo Bernardes e Washington Assis Freitas - 2026
