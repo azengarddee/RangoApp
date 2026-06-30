@@ -6,13 +6,13 @@ Aplicativo mobile desenvolvido em **React Native (Expo)** que gera receitas pers
 
 ## 📱 Funcionalidades
 
-- ✅ **Autenticação** com Firebase (Login / Cadastro / Logout)
-- ✅ **Geração de receitas com IA** (Google Gemini) a partir de ingredientes selecionados
-- ✅ **Estilos de receita**: Casa, Restaurante e Dieta
-- ✅ **Vitaminas e Sucos** reconhecidos automaticamente (frutas + leite/água)
-- ✅ **Ingredientes controlados**: a IA só usa o que o usuário selecionou + temperos básicos
-- ✅ **Minhas Receitas**: CRUD completo de receitas salvas no Firestore
-- ✅ **Perfil do usuário** com edição de dados e exclusão de conta
+- ✅ **Autenticação** com Firebase (Login / Cadastro / Logout);
+- ✅ **Geração de receitas com IA** (Google Gemini) a partir de ingredientes selecionados;
+- ✅ **Estilos de receita**: Casa, Restaurante e Dieta;
+- ✅ **Vitaminas e Sucos** reconhecidos automaticamente (frutas + leite/água);
+- ✅ **Ingredientes controlados**: a IA só usa o que o usuário selecionou + temperos básicos;
+- ✅ **Minhas Receitas**: CRUD completo de receitas salvas no Firestore;
+- ✅ **Perfil do usuário** com edição de dados e exclusão de conta.
 
 ---
 
