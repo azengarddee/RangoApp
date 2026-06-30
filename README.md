@@ -124,4 +124,5 @@ rangoapp/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gabriel** — Projeto de Faculdade
+Desenvolvido por Gabriel de Araújo Bernardes
+                 Washington Assis Freitas
