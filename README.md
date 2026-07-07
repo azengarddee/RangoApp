@@ -1,5 +1,23 @@
 #  RangoApp — Gerador de Receitas com IA
 
+> ⚠️ **AVISO IMPORTANTE SOBRE O VÍDEO DE APRESENTAÇÃO**
+> Professor, o vídeo com a apresentação completa do projeto está na pasta `presentation/`. 
+> Como o arquivo tem mais de 25 MB, o GitHub exibe a mensagem de erro: _"(Sorry about that, but we can’t show files that are this big right now.)"_
+> **Para assistir, por favor, clique no botão "View raw" (ou "Download raw") no canto superior direito da tela do vídeo.**
+
+### 📱 Apresentação da Solução
+O **RangoApp** é um aplicativo mobile desenvolvido para combater o desperdício de alimentos. 
+
+**Resumo do Processo:**
+- **Front-end:** React Native (Expo).
+- **Back-end e IA:** Node.js com Fastify e integração com a API do **Google Gemini 2.5 Flash**.
+- **Banco e Auth:** Firebase Authentication e Cloud Firestore (CRUD de receitas).
+
+**A Solução:**
+O usuário faz login, seleciona seus ingredientes e escolhe um estilo de refeição. A IA cria uma receita detalhada (apenas com o que o usuário selecionou) que pode ser salva no perfil para consultas futuras.
+
+---
+
 Aplicativo mobile desenvolvido em **React Native (Expo)** que gera receitas personalizadas com Inteligência Artificial a partir dos ingredientes selecionados pelo usuário.
 
 ---
